@@ -1,6 +1,6 @@
 # Progetto_di_fine_anno_5M
 
-# DOCUMENTO DEI REQUISITI:
+# Documento dei requisiti:
 
 Nome progetto → Subscription Tracker	
 
